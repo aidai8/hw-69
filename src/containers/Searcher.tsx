@@ -1,6 +1,6 @@
 
 
-const Shows = () => {
+const Searcher = () => {
     return (
         <div>
 
@@ -8,4 +8,4 @@ const Shows = () => {
     );
 };
 
-export default Shows;
+export default Searcher;
